@@ -88,3 +88,13 @@ width: 50px;
 padding: 5px;
 text-align: justify;
 }
+
+#features{
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+  
+}
+#features .col-md-4{
+  padding: 10px 30px;
+}
