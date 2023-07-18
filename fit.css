@@ -1,0 +1,62 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+h1,h2,h3,h4,p{
+  font-family: 'Cedarville Cursive', cursive;
+font-family: 'Lilita One', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poiret One', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Tiro Bangla', serif;
+}
+
+
+
+
+#header{
+  background-image: url(images/2nd\ bg.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar-nav li a
+{
+  float: right;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing:.5px;
+  transition: all ease-in-out 3s;
+
+
+ 
+}
+.navbar-toggler{
+  border: none!important;
+  outline:none !important ;
+  
+}
+.welcome{
+  padding: 50px 100px;
+  margin-top: -140px;
+  background-color:#342D29;
+ box-shadow: 0 0 20px 7px rgba(0, 0,0, 0.3);
+}
+
+
+.about{
+padding-top: 100px;
+padding-bottom: 100px;
+
+}
+.about .col-md-6
+{
+  padding: 20px 10px;
+}
+
+.about h3{
+  margin: 20px auto;
+}
