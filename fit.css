@@ -98,3 +98,72 @@ text-align: justify;
 #features .col-md-4{
   padding: 10px 30px;
 }
+#features img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  
+
+}
+.review{
+  font-size: 16px;
+  padding: 10px 10px 10px 30px;
+  border-radius: 10px;
+
+}
+
+.subscribe{
+  padding: 50px 20px;
+  background-color: #013f7e;
+  position: relative;
+}
+
+.subscribe h3, .subscribe p{
+  color: #fff;
+}
+
+.subscribe   .input-group{
+   background: #fff;
+  border-radius: 30px;
+  max-width: 500px;
+  margin:10px auto;
+  padding:5px
+
+}
+.subscribe   .form-control{
+  border: none;
+  background: transparent;
+
+}
+.subscribe   .form-control:focus{
+ box-shadow: none;
+  background: transparent;
+}
+.subscribe .input-group-append{
+  background-image: linear-gradient( to right,#1c03b5, #5c8bef);
+  border-radius: 30px;
+}
+.subscribe .input-group-text{
+  background: transparent;
+  border:none;
+  color: #fff;
+}
+.subscribe .btn:focus{
+  box-shadow: none;
+}
+
+#footer{
+margin-top: 80px;
+padding: 100px;
+background-color: #efefef;
+color:#013f7e;
+}
+.footer-logo{
+width: 150px;
+margin-top: 25px;
+margin-bottom:  15px;
+}
+.footer h1{
+  font-size:15px;
+  
+}
